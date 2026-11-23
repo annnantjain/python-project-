@@ -1,0 +1,6 @@
+# Hospital Management System
+# Standard Python 3.8+ built-in libraries are used:
+# - tkinter (GUI framework)
+# - sqlite3 (Relational database)
+# - datetime (Date validation)
+# No external pip dependencies required.
